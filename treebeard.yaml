@@ -1,0 +1,6 @@
+notebook: covid-19.ipynb
+output_dirs:
+  - plots
+ignore:
+  - .git
+
